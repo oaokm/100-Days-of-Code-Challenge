@@ -14,8 +14,11 @@ Hello, and welcome to **100 Days of Code Challenge**, This challenge is three ma
 
 #
 
-## Day 1 of 100 | **Date: 02-01-2022**
+## Day 1 of 100 | **Date: 26-04-2022**
+On this day it started for challenge #100Day_of_Code.
+Program this day about "Swear words", how does the program recognize and deals with their words.
 
+For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Sweat_Words)
 
 # 
 
