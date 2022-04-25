@@ -8,7 +8,7 @@
 #* LangFIND: is option for exploration language used it  *#
 #TODO You'll have to complete this functon#
 def langFIND():
-    FILE = open('swear_words.json', 'r')
+    FILE = open('data/swear_words.json', 'r')
     JSONFILE = json.loads(FILE.read())
 
 
