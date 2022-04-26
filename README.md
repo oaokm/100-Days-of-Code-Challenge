@@ -9,7 +9,7 @@ Hello, and welcome to **100 Days of Code Challenge**, This challenge is three ma
 * Learn the new in python, and other.
 #
 
-## Day 1 of 100 | **Date: 26-04-2022**
+## Day 1 of 100 | **Date: 25-04-2022**
 On this day it started for challenge #100Day_of_Code_Challenge.
 Program this day about "Swear words", how does the program recognize and deals with their words.
 
