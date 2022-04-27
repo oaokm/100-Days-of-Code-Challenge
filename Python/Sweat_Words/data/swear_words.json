@@ -1,21 +1,34 @@
-
-[
-"vagina",
-"fuck",
-"ass",
-"bitch",
-"shit",
-"pussy",
-"cunt",
-"whore",
-"Crap",
-"nigga",
-"twat",
-"damn",
-"effing",
-"frigger",
-"fatherfucker",
-"goddamn",
-"crap",
-"boobs"
-]
+{
+    "EN":{
+        "swear":[
+        "vagina",
+        "fuck",
+        "ass",
+        "bitch",
+        "shit",
+        "pussy",
+        "cunt",
+        "whore",
+        "Crap",
+        "nigga",
+        "twat",
+        "damn",
+        "effing",
+        "frigger",
+        "fatherfucker",
+        "goddamn",
+        "crap",
+        "boobs"
+        ],
+        "letters":"abcdefghijklmnopqrstuvwxyz"
+    },
+    "AR":{
+        "swear":[
+        "حيوان",
+        "كلب",
+        "زق",
+        "خرا"
+        ],
+        "letters":"ضصثقفغعهخحجدشسيبلاتنمكطئءؤرﻻىةوزظ"
+    }
+}
