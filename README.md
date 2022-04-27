@@ -17,3 +17,6 @@ For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challeng
 
 # 
 
+## Day 2 of 100 | **Date: 26-04-2022**
+On this day I'm preparing my Github account for the challenge, and folder, file, and code to orderly folders.
+#
