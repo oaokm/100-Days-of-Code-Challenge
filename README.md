@@ -21,5 +21,5 @@ On this day I'm preparing my Github account for the challenge, and folder, file,
 
 
 ## Day 3 of 100 | **Date: 27-04-2022**
-On this day I do bot, the advantage of this bot is it's like a personal assistant.
+On this day I do bot, the advantage of this bot provides some services.
 This program is under development.
