@@ -64,12 +64,7 @@ def confusion(SwearWords:list):
 
 
 #* RUN *#
-meun = int(input(" [0] Enter\n [9] Devlap\n > "))
-if meun == 0:
-    text = input("Enter any word > ")
-    confusion(find(text))
 
-elif meun == 9:
-    text = input("Enter any word (MODE: text analysis) > ")
-    text_analysis(text)
+text = input("Enter any word > ")
+confusion(find(text))
     
