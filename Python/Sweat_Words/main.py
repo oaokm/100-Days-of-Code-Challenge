@@ -2,7 +2,7 @@
 #// Add V+ing, V+out and,..,  after "+"" for confusion and find swear words more.
 
 #* Import Module *#
-    import json
+import json
 
 #! functions *#
 #* LangFIND: is option for exploration language used it  *#
