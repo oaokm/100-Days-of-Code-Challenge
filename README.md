@@ -27,4 +27,4 @@ This program is under development.
 ## Day 4 of 100 | **Date: 28-04-2022**
 On this day I did a new project which is the binary search.
 
-For go to folder [Click Here!](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Algorithms/Binary%20Search%20Algorithm
+For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Algorithms/Binary%20Search%20Algorithm)
