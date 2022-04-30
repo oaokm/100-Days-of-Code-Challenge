@@ -23,7 +23,7 @@ def binary_search(arr, item):
     return False
 
 #* Array 
-array = [1,1451,897,45,2,9]
+array = [1,1451,897,45,2,9,324]
 
 #* alphabetical order for array & input
 a_to_z_array      = sorted(array)
