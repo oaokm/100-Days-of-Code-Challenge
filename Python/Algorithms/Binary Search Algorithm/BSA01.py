@@ -26,8 +26,8 @@ def binary_search(arr, item):
 array = [1,1451,897,45,2,9]
 
 #* alphabetical order for array & input
-a_to_z_array = sorted(array)
-target = int(input("Enter > "))
+a_to_z_array      = sorted(array)
+target            = int(input("Enter > "))
 output_befor_atoz = binary_search(array, target)
 output_after_atoz = binary_search(a_to_z_array, target)
 
