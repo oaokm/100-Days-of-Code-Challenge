@@ -28,3 +28,9 @@ This program is under development.
 On this day I did a new project which is the binary search.
 
 For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Algorithms/Binary%20Search%20Algorithm)
+
+
+# Day 5 of 100 | **Date: 29-04-2022**
+It was on this day that I updated the binary search algorithm and fixed the fatal problems in the algorithm (alphabetical order for numbers and letters).
+
+For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Algorithms/Binary%20Search%20Algorithm)
