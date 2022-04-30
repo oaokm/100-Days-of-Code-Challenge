@@ -1,4 +1,3 @@
-
 def binary_search(arr, item):
     """
     binary_search: is an algorithm for search, and fast.
