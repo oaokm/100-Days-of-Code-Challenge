@@ -1,7 +1,6 @@
 #* import module *#
 from random import randint
 
-
 def OTP():
     #* step 1: Sett values 
     string = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-=+/*.'
