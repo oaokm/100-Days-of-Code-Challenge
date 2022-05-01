@@ -34,3 +34,16 @@ For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challeng
 It was on this day that I updated the binary search algorithm and fixed the fatal problems in the algorithm (alphabetical order for numbers and letters).
 
 For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Algorithms/Binary%20Search%20Algorithm)
+
+
+## Day 6 of 100 | **Date: 01-05-2022**
+It was on this day I did a created program new for Sort files.
+about program:
+* Sort all files in the folder.
+* Classification of all files into folders.
+
+This program is soon...
+
+And I did a created program for checking code messages, named "OTP"
+
+For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Algorithms/OTP)
