@@ -36,7 +36,7 @@ It was on this day that I updated the binary search algorithm and fixed the fata
 For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Algorithms/Binary%20Search%20Algorithm)
 
 
-## Day 6 of 100 | **Date: 01-05-2022**
+## Day 6 of 100 | **Date: 30-04-2022**
 It was on this day I did a created program new for Sort files.
 about program:
 * Sort all files in the folder.
