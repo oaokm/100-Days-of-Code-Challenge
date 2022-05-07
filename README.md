@@ -47,3 +47,10 @@ This program is soon...
 And I did a created program for checking code messages, named "OTP"
 
 For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Algorithms/OTP)
+
+
+## Day 7 of 100 | **Date: 07-05-2022**
+Hello I am BACK, and I continue way coding, programming, and learning.
+So it was on this day I did the learn to Go programming language from [`Hello World`](https://github.com/oaokm/100-Days-of-Code-Challenge/blob/main/Go/Learning/Hello.go) to [`for loops`](https://github.com/oaokm/100-Days-of-Code-Challenge/blob/main/Go/Learning/loop_one.go)
+
+For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Go/Learning)
