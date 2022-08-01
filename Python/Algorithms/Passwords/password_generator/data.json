@@ -1,0 +1,8 @@
+
+{
+    "level":{
+        "E" : "0123456789abcdefghijklmnopqrstuvwxyz",
+        "M" : "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "H" : "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-=+/*."
+    }
+}
