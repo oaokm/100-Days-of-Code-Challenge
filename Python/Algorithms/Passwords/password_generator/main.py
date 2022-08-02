@@ -3,7 +3,6 @@
 from random import randint as rand
 import json
 import sys
-from tkinter import N
 
 #* Values
 try_error = 0
