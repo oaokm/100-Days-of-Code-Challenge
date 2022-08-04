@@ -60,3 +60,11 @@ For go to folder [Click Here](https://github.com/oaokm/100-Days-of-Code-Challeng
 On this day I completed the challenge of filtering even and odd numbers
 
 For go to file challrnge [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/blob/main/Python/Algorithms/Numbers/even_and_odd_numbers_algorithm.py)
+
+
+## Day 9 of 100 | **Date: 04-08-2022**
+Hey folks I AM A REALLY BACK!
+
+In this day I made a password generator
+
+For go to file challrnge [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Algorithms/Passwords/password_generator)
