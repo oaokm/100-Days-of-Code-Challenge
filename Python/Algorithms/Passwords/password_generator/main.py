@@ -69,7 +69,7 @@ while True:
         if sys.argv[1:3]:
             newpass = sys.argv[1:3]
         else:
-            newpass = input("Enter the level the password and the length, like -> (level(f:E,f:M,f:H) long_password) \n > ").split(" ")
+            newpass = input("Enter the level the password and the length, like -> (level(f:E+f:M+f:H) length of password) \n > ").split(" ")
         
         #? If the second field is required (password length), this will automatically be added.
         try:
