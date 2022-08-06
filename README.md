@@ -68,3 +68,11 @@ Hey folks I AM A REALLY BACK!
 In this day I made a password generator
 
 For go to file challrnge [Click Here](https://github.com/oaokm/100-Days-of-Code-Challenge/tree/main/Python/Algorithms/Passwords/password_generator)
+
+
+## Day 10 of 100 | **Date: 05-08-2022**
+On this day I learned encryption to develop a Password Manager program
+
+
+## Day 11 of 100 | **Date: 06-08-2022**
+On this day I a create the BIG PROJECT, It will be available soon on my profile on Github.
